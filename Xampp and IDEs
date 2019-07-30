@@ -1,0 +1,40 @@
+1.  https://www.apachefriends.org/download.html
+  //Download the xampp file here
+
+2.  Open Xampp
+  //Select "START" for Apache and MySQL and wait for it to load
+
+3.  Open Browser and type: localhost
+    //if everything is working correctly, you'll be brought to a "Welcome to XAMPP" page
+
+4.  On windows, open Explorer. Go to C drive, or main directory. Example: C:\xampp\htdocs. Create a any folder name such as: project
+    Inside that new project folder create an index.html file. Create a basic HTML layout or copy and paste the helloworld.html file in the repository. 
+    On localhost, to open the page you created, type in the browser: localhost/project and the index page will open up
+
+
+Web Development IDEs (All Free)
+1. Visual Studio Code
+    This has become as very popular IDE for web development. It has lots of extensions to download, tons of themes, and it's opensource, meaning
+    developers can contribute and create add-ons.
+    https://code.visualstudio.com/download
+
+2. Notepad++
+    No thrills, straight to the point. It's a very basic IDE that is very light.
+    https://notepad-plus-plus.org/download/v7.7.1.html
+
+3. Atom.io
+    I've used this one before, and it's similar to VS Code. The only thing that I didn't like was that it was resource heavy, or so it seemd to me. Also opensource
+    https://atom.io/
+
+4. Sublime Text
+    Light Weight and very versatile
+    https://www.sublimetext.com/3
+
+**Notable Online IDEs for practicing
+5.  Codepen
+    For coding online and sharing the code with others. Great resource too for searching some templates, or codes
+    https://codepen.io/
+
+6.  JSFiddle
+    Another great tool that has been around for many years
+    https://jsfiddle.net/
